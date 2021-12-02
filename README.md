@@ -20,15 +20,3 @@ The model should work as follows:
 6. A function is defined in order to pull out the height of the iceberg at each coordinate.
 7. The total volume and mass is then calculated for above sea level and in total.
 8. An if else statement is used to print the outcome of the model to the output.
-
-How the code is tested:
-The code is timed for efficiency.
-The code has commented out sections that can be turned on to display coordinates and values to the output to show that the code is working correctly.
-The code checks the length of lists in order to see whether the correct number of values have been returned for height.
-
-How I could work on this code to improve efficiency and make it more advanced:
-Utilise more functions to shrink code to a fewer number of lines.
-Import data for multiple icebergs and determine which ones could be moved and which couldn't - functions could also be utilised in order to make this process more efficent and shrink the number of lines of code needed.
-The code could also create a more advanced GUI, for example, with a title. 
-
-
