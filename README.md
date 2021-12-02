@@ -5,6 +5,7 @@ This respository of code contains the python code for the independent project as
 
 This project uses a GNU General Public License v3.0 which can be found within the zip file.
 Details about the development process are also attached under the development_process.pdf / development_process.txt file within the zip file.
+Lidar and Radar data are also accessible within the zip file.
 
 What the model does:
 The model pulls in and reads two files: lidar and radar data that show the height and area of an iceberg respectively. The model uses this data creates a visual plot that shows the coordinates and corresponding heights at each coordinate when hovered over with a mouse. 
