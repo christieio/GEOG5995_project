@@ -8,7 +8,7 @@ Details about the development process are also attached under the development_pr
 Lidar and Radar data are also accessible within the zip file.
 
 What the model does:
-The model pulls in and reads two files: lidar and radar data that show the height and area of an iceberg respectively. The model uses this data creates a visual plot that shows the coordinates and corresponding heights at each coordinate when hovered over with a mouse. 
+The model pulls in and reads two files: lidar and radar data that show the height and area of an iceberg respectively. The model uses this data to create a visual plot that shows the coordinates and corresponding heights at each coordinate when hovered over with a mouse. 
 
 The model loops through the files to return all the coordinates where there is ice above sea level and the corresponding heights for each coordinate. Each coordinate represents a m*2 area. The model calculates the total volume of ice that is above sea level. This volume is then used to calculate the mass of the iceberg above sea level. As the instructions informs us that 10 percent of the icebergs mass is above water, the model is able to calculate the total mass of the iceberg by * the result by 10. 
 
